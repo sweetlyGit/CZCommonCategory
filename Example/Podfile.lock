@@ -1,0 +1,16 @@
+PODS:
+  - CZCommonCategory (0.1.0)
+
+DEPENDENCIES:
+  - CZCommonCategory (from `../`)
+
+EXTERNAL SOURCES:
+  CZCommonCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CZCommonCategory: 0949fd2c56e32554c463801e67cf95cdd895fe85
+
+PODFILE CHECKSUM: d1e80783f226d448a982268178f782e7d462bad1
+
+COCOAPODS: 1.5.0
