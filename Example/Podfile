@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CZCommonCategory_Example' do
+  pod 'CZCommonCategory', :path => '../'
+
+  target 'CZCommonCategory_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
